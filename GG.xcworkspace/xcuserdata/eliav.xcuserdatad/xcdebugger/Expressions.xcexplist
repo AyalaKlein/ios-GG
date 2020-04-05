@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in EditGameViewController.saveGame(sender:):EditGameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "editedGame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SearchGameViewController.performSearch():SearchGameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchBar.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FireBaseModel.saveImageToFirebase(image:name:callback:):FireBaseModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.jpegData(0.0)">
+            </PersistentString>
+            <PersistentString
+               value = "storageRef.downloadURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
